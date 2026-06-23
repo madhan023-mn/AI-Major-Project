@@ -1,0 +1,8 @@
+env/
+venv/
+env37new/
+__pycache__/
+*.pyc
+db.sqlite3
+.idea/
+.vscode/
