@@ -1,8 +1,8 @@
-install nltk==3.4.5
-install torch==1.12.1
-install torchvision==0.13.1
-install transformers==4.19.2
-install django==2.1.7
-install PyMySQL==0.9.3
-install scikit-learn==0.22.2.post1
-install nltk==3.4.5
+nltk==3.4.5
+torch==1.12.1
+torchvision==0.13.1
+transformers==4.19.2
+django==2.1.7
+PyMySQL==0.9.3
+scikit-learn==0.22.2.post1
+gunicorn
